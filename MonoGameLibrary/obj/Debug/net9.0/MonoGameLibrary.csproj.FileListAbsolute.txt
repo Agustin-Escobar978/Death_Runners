@@ -1,0 +1,13 @@
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+c:\Users\agust\Documents\monogame\Death_Runners\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll

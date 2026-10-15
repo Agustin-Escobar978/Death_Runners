@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Death_Runners")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea1816a79246b46bfa49df96f7628177036890ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb82ed10aa76268b3f2e2a9b46081c28af054b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Death_Runners")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Death_Runners")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

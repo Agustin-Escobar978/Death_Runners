@@ -142,6 +142,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "MonoGameLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MonoGameLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MonoGameLibrary.dll": {}
+        }
       }
     }
   },
@@ -301,12 +311,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MonoGameLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MonoGameLibrary/MonoGameLibrary.csproj",
+      "msbuildProject": "../MonoGameLibrary/MonoGameLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "MonoGame.Content.Builder.Task >= 3.8.*",
-      "MonoGame.Framework.DesktopGL >= 3.8.*"
+      "MonoGame.Framework.DesktopGL >= 3.8.*",
+      "MonoGameLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -315,11 +331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\Death_Runners.csproj",
+      "projectUniqueName": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\Death_Runners.csproj",
       "projectName": "Death_Runners",
-      "projectPath": "C:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\Death_Runners.csproj",
+      "projectPath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\Death_Runners.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\obj\\",
+      "outputPath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\Death_Runners\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -336,7 +352,11 @@
         "net9.0": {
           "framework": "net9.0",
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+              "projectPath": "c:\\Users\\agust\\Documents\\monogame\\Death_Runners\\MonoGameLibrary\\MonoGameLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
